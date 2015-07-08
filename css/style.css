@@ -1,3 +1,10 @@
 body.dark {
   background: black;
 }
+
+#light_switch {
+	height: auto;
+	width: auto;
+	font-size: 40px;
+	padding: 30px;
+}
