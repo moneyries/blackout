@@ -1,5 +1,9 @@
 body.dark {
-  background: black;
+  background-image: url(../images/justin-bieber-photos-hd-background-wallpaper-35.jpg);
+}
+
+body.light {
+	background-image: url(../images/white_unicorn-1457116.jpg);
 }
 
 #light_switch {

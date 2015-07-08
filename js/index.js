@@ -21,7 +21,7 @@ $(function() {
 			console.log("lights are off, turn them on");
 			lights = 'on';
 			//$('body').css('background-color', 'white');
-			$('body').removeClass('dark');
+			$('body').addClass('light');
 		}
 
 	}
